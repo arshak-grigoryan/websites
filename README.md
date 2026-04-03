@@ -11,10 +11,15 @@ Domain | Description |
 | [geojson.io](https://geojson.io/) | A quick, simple tool for creating, viewing, and sharing spatial data. |
 | [Placemark Play](https://play.placemark.io/) | Powertool for creating maps. Import, export, draw, analyze, and share map data. |
 
+### GIS data
+Domain | Description | 
+|:---|:---|
+| [BAG Viewer](https://geojson.io/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
+
 ### HTML
 Domain | Description | 
 |:---|:---|
-| [Caninclude](https://caninclude.glitch.me/) | 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag. |
+| [Caninclude](https://bagviewer.kadaster.nl/) | 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag. |
 | [SVGViewer](https://www.svgviewer.dev/) | SVG Viewer is an online tool to view, edit and optimize SVGs. |
 
 ### WEB
