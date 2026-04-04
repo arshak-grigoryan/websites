@@ -21,6 +21,8 @@ Domain | Description |
 |:---|:---|
 | [Flightradar24](https://geojson.io/) | Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features! |
 | [Windy](https://www.windy.com/) | Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else. Worldwide animated weather map, with easy to use layers and precise spot forecast. METAR, TAF and NOTAMs for any airport in the World. SYNOP codes from weather stations and buoys. Forecast models ECMWF, GFS, NAM and NEMS |
+| [MarineTraffic](https://www.marinetraffic.com/) | MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than 550000 active and decommissioned vessels. Search for popular ships globally. Find locations of ports and ships using the near Real Time ships map. View vessel details and ship photos. |
+
 
 ### HTML
 Domain | Description | 
