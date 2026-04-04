@@ -14,7 +14,13 @@ Domain | Description |
 ### GIS data
 Domain | Description | 
 |:---|:---|
-| [BAG Viewer](https://geojson.io/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
+| [BAG Viewer](https://www.flightradar24.com/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
+
+### Real time map data
+Domain | Description | 
+|:---|:---|
+| [Flightradar24](https://geojson.io/) | Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features! |
+| [Windy](https://www.windy.com/) | Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else. Worldwide animated weather map, with easy to use layers and precise spot forecast. METAR, TAF and NOTAMs for any airport in the World. SYNOP codes from weather stations and buoys. Forecast models ECMWF, GFS, NAM and NEMS |
 
 ### HTML
 Domain | Description | 
