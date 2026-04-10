@@ -18,6 +18,8 @@ Domain | Description |
 | [The True Size Of ...](https://thetruesize.com/) | Drag, drop and rotate countries, states, provinces, and regions around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you find! A great tool for educators. |
 | [HeyWhatsThat](https://www.heywhatsthat.com/) | Compute summits visible from any location worldwide |
 | [ShadeMap](https://shademap.app/) | Every mountain, building and tree shadow in the world simulated for any date and time |
+| [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) | Smoothly animated map projections. |
+
 
 ### Real time map data
 Domain | Description | 
