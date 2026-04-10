@@ -15,6 +15,7 @@ Domain | Description |
 Domain | Description | 
 |:---|:---|
 | [BAG Viewer](https://www.flightradar24.com/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
+| [The True Size Of ...](https://thetruesize.com/) | Drag, drop and rotate countries, states, provinces, and regions around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you find! A great tool for educators. |
 
 ### Real time map data
 Domain | Description | 
