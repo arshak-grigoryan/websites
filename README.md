@@ -19,7 +19,7 @@ Domain | Description |
 | [HeyWhatsThat](https://www.heywhatsthat.com/) | Compute summits visible from any location worldwide |
 | [ShadeMap](https://shademap.app/) | Every mountain, building and tree shadow in the world simulated for any date and time |
 | [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) | Smoothly animated map projections. |
-
+| [Google Earth](https://earth.google.com/) | The world's most detailed globe |
 
 ### Real time map data
 Domain | Description | 
