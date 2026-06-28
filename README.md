@@ -14,7 +14,7 @@ Domain | Description |
 ### GIS data
 Domain | Description | 
 |:---|:---|
-| [BAG Viewer](https://www.flightradar24.com/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
+| [BAG Viewer](https://bagviewer.kadaster.nl/) | Met de BAG Viewer kunt u online via een kaart of luchtfoto actuele gegevens van woningen en andere gebouwen bekijken. Denk aan gegevens als bouwjaar, gebruiksdoel en oppervlakte. |
 | [The True Size Of ...](https://thetruesize.com/) | Drag, drop and rotate countries, states, provinces, and regions around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you find! A great tool for educators. |
 | [HeyWhatsThat](https://www.heywhatsthat.com/) | Compute summits visible from any location worldwide |
 | [ShadeMap](https://shademap.app/) | Every mountain, building and tree shadow in the world simulated for any date and time |
@@ -27,7 +27,7 @@ Domain | Description |
 ### Real time map data
 Domain | Description | 
 |:---|:---|
-| [Flightradar24](https://geojson.io/) | Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features! |
+| [Flightradar24](https://www.flightradar24.com/) | Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features! |
 | [Windy](https://www.windy.com/) | Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else. Worldwide animated weather map, with easy to use layers and precise spot forecast. METAR, TAF and NOTAMs for any airport in the World. SYNOP codes from weather stations and buoys. Forecast models ECMWF, GFS, NAM and NEMS |
 | [MarineTraffic](https://www.marinetraffic.com/) | MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than 550000 active and decommissioned vessels. Search for popular ships globally. Find locations of ports and ships using the near Real Time ships map. View vessel details and ship photos. |
 | [Ukraine Control Map v2 - Google My Maps](https://www.google.com/maps/d/u/0/viewer?mid=1xPxgT8LtUjuspSOGHJc2VzA5O5jWMTE&ll=47.50751714509709%2C34.14477250205766&z=6) | Ukraine Control Map continuously updated by people at Project Owl |
