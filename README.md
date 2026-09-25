@@ -38,6 +38,11 @@ Domain | Description |
 | [Caninclude](https://bagviewer.kadaster.nl/) | 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag. |
 | [SVGViewer](https://www.svgviewer.dev/) | SVG Viewer is an online tool to view, edit and optimize SVGs. |
 
+### CSS
+Domain | Description | 
+|:---|:---|
+| [CSS Loaders](https://css-loaders.com/) | CSS Loaders: A collection of more than 600 loading animations |
+
 ### WEB
 Domain | Description | 
 |:---|:---|
