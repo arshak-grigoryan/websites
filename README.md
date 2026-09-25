@@ -22,6 +22,7 @@ Domain | Description |
 | [Google Earth](https://earth.google.com/) | The world's most detailed globe |
 | [Overture Maps Foundation](https://overturemaps.org/) | Overture Maps Explorer is a no-code, browser-based tool for browsing, searching, and inspecting the data and schema. |
 | [Night Earth](https://www.nightearth.com/) | Discover the Beauty of Our Planet at Night |
+| [Քարտեզ — HinYerevan.com](https://www.hinyerevan.com/) | Հին Երևանի լուսանկարների արխիվ և քարտեզ. Ուսումնասիրեք քաղաքի պատկերները ըստ տարիների, հեղինակների և վայրերի։ |
 
 ### Real time map data
 Domain | Description | 
